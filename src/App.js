@@ -1,8 +1,9 @@
+import ServiceUserList from './components/ServiceUserList';
 import './App.css';
 
 function App() {
   return (
-    <p>welcome Service Users Dashboard</p>
+    <ServiceUserList />
   );
 }
 
