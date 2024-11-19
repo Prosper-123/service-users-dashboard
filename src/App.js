@@ -14,7 +14,7 @@ const App = () => {
         <main className="main-content">
           <Routes>
             <Route path="/" element={<Dashboard />} />
-            <Route path="/user-profile" element={<UserProfile />} />
+            <Route path="/UserProfile" element={<UserProfile />} />
           </Routes>
         </main>
         <footer className="footer">
